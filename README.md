@@ -1,5 +1,5 @@
 # Daily Habit Tracker UI
-
+[Live Demo](https://harinmayi-p.github.io/Daily_habit_tracker/)
 A clean and minimal daily habit tracker built using HTML and CSS.
 
 ## Features
